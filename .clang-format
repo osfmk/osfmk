@@ -1,0 +1,9 @@
+# Defines the Google C++ style for automatic reformatting.
+# http://clang.llvm.org/docs/ClangFormatStyleOptions.html
+---
+Language: Cpp
+BasedOnStyle: Google
+DerivePointerAlignment: false
+MaxEmptyLinesToKeep: 1
+ColumnLimit: 120
+# BreakAfterAttributes: Always
